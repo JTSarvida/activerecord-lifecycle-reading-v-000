@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 
   get 'posts/create'
 
-  get 'psts/edit'
+  get 'posts/edit'
 
   get 'posts/update'
 
